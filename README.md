@@ -1,4 +1,4 @@
-**<p align="center">Proyecto de Data-BI de No Country . s17-18-m-data-bi</p>**
+**<p align="center">Proyecto de Data-BI de No Country - s17-18-m-data-bi</p>**
 
 <img src="Imagenes\SP500.jpg" width="1010" height="400">
 
