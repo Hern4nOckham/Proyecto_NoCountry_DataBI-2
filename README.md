@@ -2,7 +2,7 @@
 
 <img src="Imagenes\SP500.jpg" width="1010" height="400">
 
-#  **<p align="center">INVERSIÓN EN EL SP</p>** 
+#  **<p align="center">INVERSIÓN EN EL SPY</p>** 
 ##  **<p align="center">COMO ALTERNATIVA PARA UN FONDO DE RETIRO</p>**
 
 ## Introducción
